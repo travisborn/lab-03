@@ -30,10 +30,10 @@
         android:padding="8dp" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/button_add_city"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/button_add_city"
         android:clickable="true"
-        app:srcCompat="@android:drawable/ic_input_add"/>
+        app:srcCompat="@android:drawable/ic_input_add" />
 
 </LinearLayout>
